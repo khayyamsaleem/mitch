@@ -1,0 +1,10 @@
+.box {
+    border: black dashed 2px;
+    background-color: green;
+    width: 200px;
+    height: 200px;
+}
+
+#edit {
+    color: red;
+}
